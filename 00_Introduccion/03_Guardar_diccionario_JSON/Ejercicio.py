@@ -17,9 +17,11 @@ def recibir_datos():
 
 def es_edad_correcta():
     ...
+    
 
 def es_email_correcto():
     ...
+
 
 
 if __name__ == '__main__':
