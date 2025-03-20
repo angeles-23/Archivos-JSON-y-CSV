@@ -55,7 +55,7 @@ def mostrar_nombre_personas(fichero):
 
         print('Personas registradas:')
         for persona in contenido:
-            print(f'- {contenido[persona]['nombre']}')
+            print(f'- {persona['nombre']}')
 
 
 
@@ -63,12 +63,12 @@ def mostrar_nombre_personas(fichero):
 if __name__ == '__main__':
     
     fichero = './04_Cargar_diccionario_desde_JSON/personas.json'
-    personas = {}
+    personas = []
 
     for i in range(3):
         print(f'Datos persona {i+1}: ')
         nombre, edad, email = solicitar_datos_correctos()
-        personas[i] = {'nombre': nombre, 'edad':edad, 'email':email}
+        personas.append({'nombre': nombre, 'edad':edad, 'email':email})
         print()
 
     guardar_lista_en_diccionario(personas, fichero)

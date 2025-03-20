@@ -1,17 +1,17 @@
-{
-    "0": {
+[
+    {
         "nombre": "Carlos",
         "edad": 20,
         "email": "carlos@gmail.com"
     },
-    "1": {
+    {
         "nombre": "Ana",
-        "edad": 23,
-        "email": "ana@gmail.com"
+        "edad": 26,
+        "email": "ana26@gmail.com"
     },
-    "2": {
+    {
         "nombre": "Luis",
-        "edad": 35,
-        "email": "luis@gmail.com"
+        "edad": 28,
+        "email": "luis28@gmail.com"
     }
-}
+]
