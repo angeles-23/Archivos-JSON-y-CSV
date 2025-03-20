@@ -51,11 +51,13 @@ def guardar_lista_en_diccionario(personas, fichero):
 def mostrar_nombre_personas(fichero):
 
     with open(fichero, 'r') as f:
-        contenido = f.read()
-        print('\nPersonas registradas: ')
-        print(contenido)
+        contenido = json.load(f)
 
-        
+        print('Personas registradas:')
+        for persona in contenido:
+            print(f'- {contenido[persona]['nombre']}')
+
+
 
 
 if __name__ == '__main__':
