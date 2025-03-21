@@ -42,6 +42,7 @@ def solicitar_productos():
     return nombre, precio, stock
 
 
+
 def crear_lista_productos():
 
     lista_productos = []
@@ -50,30 +51,42 @@ def crear_lista_productos():
         nombre, precio, stock = solicitar_productos()
         lista_productos.append({'nombre': nombre, 'precio': precio, 'stock': stock})
         print()
-
     return lista_productos
 
+
+
 def guardar_productos(productos, archivo):
+
     with open(archivo, 'w', newline='') as f:
         escritor = csv.writer(f)
-        escritor.writerow(['nombre', 'precio', 'stock'])
+        escritor.writerow(['nombre', 'precio', 'stock'])  # Escribe los encabezados
         
         for producto in productos:
-            escritor.writerows(producto['nombre'])
+            escritor.writerow([producto['nombre'], producto['precio'], producto['stock']])  # Escribe los valores
+            
+
 
 
 def mostrar_productos(archivo):
+
     with open(archivo, 'r') as f:
-        lector = csv.reader(f)
-        for fila in lector:
-            print(fila)
+        lector = csv.reader(f)  # Convierte las lineas en diccionarios
+        
+        encabezado = next(lector)
+        print(f'{encabezado[0]},{encabezado[1]},{encabezado[2]}')
+
+        for dato in lector:
+            nombre = dato[0]
+            precio = dato[1]
+            stock = dato[2]
+            print(f'{nombre},{precio},{stock}')
 
 
+
+    
 if __name__ == '__main__':
     archivo = './00_Introduccion/05_escribir_y_leer_CSV/productos.csv'
 
     productos = crear_lista_productos()
     guardar_productos(productos, archivo)
     mostrar_productos(archivo)
-
-
