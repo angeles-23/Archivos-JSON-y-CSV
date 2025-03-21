@@ -26,7 +26,7 @@ Se debe importar la libreríajson: `import json`
 
 | Función | Descripción |
 |---------|-------------|
-|**`json.loads()`**|Cadenas JSON ➡️ diccionario|
+|**`json.loads()`**|Leer cadenas JSON ➡️ diccionario|
 |**`json.load()`**|Leer un archivo JSON ➡️ diccionario|
 |**`json.dump()`** |Escribir y guardar un diccionario en un archivo JSON|
 |**`json.dumps()`**|Diccionarios ➡️ cadenas JSON con indent=4|
@@ -130,7 +130,7 @@ print(datos_json_con_formato)
 
 **Explicación**:
 - `datos_python`: es un diccionario en Python
-- `json.dumps()`: convierte el diccionario en euna cadena JSON
+- `json.dumps()`: convierte el diccionario en una cadena JSON
 - `print(datos_json)`: imprime el diccionario
 
 
