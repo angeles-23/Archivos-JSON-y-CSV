@@ -26,10 +26,14 @@ Se debe importar la libreríajson: `import json`
 
 | Función | Descripción |
 |---------|-------------|
-|**`json.loads()`**|Leer cadenas JSON ➡️ diccionario|
-|**`json.load()`**|Leer un archivo JSON ➡️ diccionario|
-|**`json.dump()`** |Escribir y guardar un diccionario en un archivo JSON|
-|**`json.dumps()`**|Diccionarios ➡️ cadenas JSON con indent=4|
+|Trabajar con archivos JSON|
+|**`json.load(f)`**|Leer un archivo JSON ➡️ diccionario|
+|**`json.dump(obj, f)`** |Escribir y guardar un diccionario ➡️ JSON con indent=4|
+|-------------------------------------------------------------------------------|
+|Trabajar con datos JSON en forma de cadena|
+|------------------------------------------|
+|**`json.loads(s)`**|Leer cadenas JSON ➡️ diccionario|
+|**`json.dumps(obj)`**|Diccionarios ➡️ cadenas JSON con indent=4|
 
 
 ### Ejemplo `json.loads()`
