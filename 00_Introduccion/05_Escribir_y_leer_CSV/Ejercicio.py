@@ -72,9 +72,6 @@ def mostrar_productos(archivo):
     with open(archivo, 'r') as f:
         lector = csv.reader(f)  # Convierte las lineas en diccionarios
         
-        encabezado = next(lector)
-        print(f'{encabezado[0]},{encabezado[1]},{encabezado[2]}')
-
         for dato in lector:
             nombre = dato[0]
             precio = dato[1]
