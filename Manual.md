@@ -28,7 +28,7 @@ Se debe importar la libreríajson: `import json`
 | Función | Descripción |
 |---------|-------------|
 |**`json.dump(obj, f)`** |Escribir y guardar un diccionario ➡️ JSON con indent=4|
-|**`json.load(f)`**|Leer un archivo JSON ➡️ diccionario|
+|**`json.load(f)`**|Leer un archivo JSON ➡️ diccionario  (cargar un archivo JSON)|
 
 ### Trabajar con datos JSON en forma de cadena
 | Función | Descripción |
