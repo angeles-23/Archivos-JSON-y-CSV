@@ -1,5 +1,6 @@
-import os, json, csv
+import os, csv, json
 os.system('cls')
+
 
 def mostrar_menu():
     print('\nMENÚ PRINCIPAL')
@@ -8,56 +9,49 @@ def mostrar_menu():
     print('3. Eliminar')
     print('4. Salir')
 
-
 def elegir_formato_texto():
     print('\nMENÚ FORMATO')
     print('1. JSON')
     print('2. CSV')
-    print('3. Volver al menú principal')
+    formato_texto = int(input('Elige el formato de texto: '))
 
+    return formato_texto
 
-def cargar_json(archivo):
+def cargar_json():
     """
     Carga datos desde un archivo JSON si existe.
 
     Returns:
         list: Lista de diccionarios con los datos almacenados en el archivo JSON.
     """
-    lista_datos = []
-
     try:
-        with open(archivo, 'r') as f:
-            datos_json = json.load(f)
+        with open('./00_Introduccion/08_Sistema_Interactivo/8.json', 'r') as f:
+            contenido_json = json.load(f)
     except FileNotFoundError:
-        return 'No se ha encontrado el fichero JSON'
-    else:
-        for datos in datos_json:
-            lista_datos.append(datos)
-        
-    return lista_datos
+        return []
 
+    return contenido_json
 
-def cargar_csv(archivo):
+def cargar_csv():
     """
     Carga datos desde un archivo CSV si existe.
 
     Returns:
         list: Lista de diccionarios con los datos almacenados en el archivo CSV.
     """
-    lista_datos = []
+    lista_csv = []
 
     try:
-        with open(archivo, 'r') as f:
-            datos_csv = csv.reader(f)
+        with open('./00_Introduccion/08_Sistema_Interactivo/8.csv', 'r') as f:
+            contenido_csv = csv.reader(f)
+            
+            for fila in contenido_csv:
+                lista_csv.append(fila)
 
-            for dato in datos_csv:
-                lista_datos.append(dato)
-
+        return lista_csv
+    
     except FileNotFoundError:
-        return 'No se ha encontrado el fichero CSV'
-
-    return lista_datos
-
+        return lista_csv
 
 def agregar_dato():
     """
@@ -69,40 +63,29 @@ def agregar_dato():
     Returns:
         None
     """
-    print('\n***AGREGAR DATO***')
-
-    id = input('ID: ')
+    id = int(input('ID: '))
     nombre = input('Nombre: ')
-    precio = input('Precio: ')
-    stock = input('Stock: ')
+    precio = int(input('Precio: '))
+    stock = int(input('Stock: '))
 
-    print('\nTipo de formato:')
-    print('1. JSON')
-    print('2. CSV')
-    tipo_formato = int(input('Introduce el tipo de formato: '))
+    nuevo_producto = {"id": id, "nombre": nombre, "precio": precio, "stock": stock}
 
-    match tipo_formato:
+    formato_texto = elegir_formato_texto()
+    
+    match formato_texto:
         case 1:
-            nuevo_producto = {"id":id, "nombre":nombre, "precio":precio, "stock": stock}
-
-            with open('./08/8.json', 'r') as f:
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.json', 'r') as f:
                 contenido_json = json.load(f)
-            
+                
             contenido_json.append(nuevo_producto)
 
-            with open('./08/8.json', 'w') as f:
-                json.dump(contenido_json,f, indent=4)
-
-
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.json', 'w') as f:
+                json.dump(contenido_json, f, indent=4)
+            
         case 2:
-            with open('./08/8.csv', 'a', newline="") as f:
-                escritor = csv.writer(f)
-                escritor.writerow([id, nombre, precio, stock])
-
-        case _:
-            print('Opción inválida. Vuelve a intentarlo')
-
-
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.csv', 'a', newline='') as f: 
+                contenido_csv = csv.writer(f)
+                contenido_csv.writerow([id,nombre,precio,stock])
 
 def ver_datos():
     """
@@ -114,7 +97,22 @@ def ver_datos():
     Returns:
         None
     """
-    pass
+    formato = elegir_formato_texto()
+
+    match formato:
+        case 1:
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.json', 'r') as f:
+                datos_json = json.load(f)
+
+                for producto in datos_json:
+                    print(producto)
+
+        case 2:
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.csv', 'r') as f:
+                datos_csv = csv.reader(f)
+                
+                for fila in datos_csv:
+                    print(fila)
 
 def eliminar_dato():
     """
@@ -126,28 +124,64 @@ def eliminar_dato():
     Returns:
         None
     """
-    pass
+    producto_encontrado = False
+    id_a_borrar = int(input('ID a eliminar: '))
+
+    formato = elegir_formato_texto()
+
+    match formato:
+        case 1:
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.json', 'r') as f:
+                contenido_json = json.load(f)
+
+            for producto in contenido_json:
+                id_producto = producto["id"]
+
+                if id_producto == id_a_borrar:
+                    contenido_json.remove(producto)
+                    producto_encontrado = True
+
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.json', 'w') as f:
+                json.dump(contenido_json, f, indent=4)        
+
+            if producto_encontrado == True:
+                print(f'Se ha borrado el producto con id {id_a_borrar}')
+            else:
+                print(f'No se ha encontrado el producto con id {id_a_borrar}')
 
 
+        case 2:
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.csv', 'r') as f:
+                contenido_csv = csv.reader(f)
+                contenido_csv = list(contenido_csv)
+
+            for producto in contenido_csv:
+                id_producto = producto[0]
+                id_producto = int(id_producto)
+
+                if id_producto == id_a_borrar:
+                    contenido_csv.remove(producto)
+                    producto_encontrado = True
+                    
+            with open('./00_Introduccion/08_Sistema_Interactivo/8.csv', 'w', newline='') as f:
+                escritor = csv.writer(f)
+                escritor.writerows(contenido_csv)
+                
+            if producto_encontrado == True:
+                print(f'Se ha borrado el producto con id {id_a_borrar}')
+            else:
+                print(f'No se encontró el producto con id {id_a_borrar}')
 
 
 
 if __name__ == "__main__":
-    # Desarrollar el menú de opciones.
+    cargar_json()
+    cargar_csv()
 
-    archivo_json = './08/8.json'
-    archivo_csv = './08/8.csv'
-
-    cargar_json(archivo_json)
-    cargar_csv(archivo_csv)
-
-    opcion_menu = 0
-    opcion_formato = 0
-
-    while opcion_menu != 4:
+    while True:
         try:
             mostrar_menu()
-            opcion_menu = int(input('Introduce una opción: '))
+            opcion_menu = int(input('Opción menú: '))
 
             match opcion_menu:
                 case 1:
@@ -159,7 +193,6 @@ if __name__ == "__main__":
                 case 4:
                     print('Saliendo...')
                     break
-                case _:
-                    print('Has introducido una opción que no existe')
+
         except Exception:
-            print('Error. Has introducido un valor incorrecto')
+            print('Se ha producido un error. Vuelve a intentarlo')
