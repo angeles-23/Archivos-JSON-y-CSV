@@ -298,11 +298,5 @@
         "nombre": "Funda para Laptop",
         "precio": 30,
         "stock": 18
-    },
-    {
-        "id": 10,
-        "nombre": "Monitor",
-        "precio": 500,
-        "stock": 10
     }
 ]
