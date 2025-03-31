@@ -4,7 +4,7 @@ os.system('cls')
 
 
 def cargar_csv():
-    with open("jobs_in_data.csv", "r") as f:
+    with open("jobs_in_data.csv", newline='', encoding='utf-8') as f:
         contenido_csv = csv.DictReader(f)
         lista_csv = list(contenido_csv)
 
@@ -25,61 +25,89 @@ def agrupar_por_job_category(lista_csv):
 
 def contar_empleados(lista_csv):
     cantidad_empleados = {}
-    contador_empleados = 0
 
     for empleado in lista_csv:
         categoria_job = empleado["job_category"]
 
         if categoria_job not in cantidad_empleados:
-            contador_empleados = 1
-            cantidad_empleados[categoria_job] = contador_empleados
+            cantidad_empleados[categoria_job] = 1
         else:
-            contador_empleados += 1
-            cantidad_empleados[categoria_job] = contador_empleados
+            cantidad_empleados[categoria_job] += 1
 
     return cantidad_empleados
 
 
 def calcular_salario_minimo(lista_csv):
     salarios_minimos = {}
-    # salario_minimo = int(lista_csv[0]['salary'])
 
-    # for empleado in lista_csv:
-    #     salario = int(empleado['salary'])
+    for empleado in lista_csv:
+        categoria = empleado['job_category']
+        salario = int(empleado['salary'])
 
-    #     if salario < salario_minimo:
-    #         salario_minimo = salario
+        if categoria not in salarios_minimos:
+            salarios_minimos[categoria] = salario
+        else:
+            if salarios_minimos[categoria] > salario:
+                salarios_minimos[categoria] = salario
 
     return salarios_minimos
 
 
-
 def calcular_salario_maximo(lista_csv):
 
-    salario_maximo = int(lista_csv[0]['salary'])
+    salarios_maximos = {}
 
     for empleado in lista_csv:
+        categoria = empleado['job_category']
         salario = int(empleado['salary'])
 
-        if salario > salario_maximo:
-            salario_maximo = salario
+        if categoria not in salarios_maximos:
+            salarios_maximos[categoria] = salario
+        else:
+            if salarios_maximos[categoria] < salario:
+                salarios_maximos[categoria] = salario
 
-    return salario_maximo
+    return salarios_maximos
 
 
 def calcular_salario_medio(lista_csv):
-    cantidad_empleados = 0
-    salario_total = 0
+
+    salarios_medios = {}
+    cantidad_empleados = contar_empleados(lista_csv)
+    cantidad_salarios = calcular_salario_total_categorias(lista_csv)
+
+    for categoria in cantidad_salarios:
+
+        if categoria in cantidad_empleados:
+            total_salarios = cantidad_salarios[categoria]
+            empleados_categoria = cantidad_empleados[categoria]
+
+            if empleados_categoria > 0:
+                salario_medio = total_salarios / empleados_categoria
+                salarios_medios[categoria] = salario_medio
+            else:
+                salarios_medios[categoria] = 0
+        
+        else:
+            salarios_medios[categoria] = 0
+
+    return salarios_medios
+
+
+def calcular_salario_total_categorias(lista_csv):
+
+    salarios_totales = {}
 
     for empleado in lista_csv:
+        categoria = empleado['job_category']
         salario = int(empleado['salary'])
 
-        salario_total += salario
-        cantidad_empleados += 1
+        if categoria not in salarios_totales:
+            salarios_totales[categoria] = salario
+        else:
+            salarios_totales[categoria] += salario
 
-    media_salario = round(salario_total / cantidad_empleados, 2)
-
-    return media_salario
+    return salarios_totales
 
 
 def calcular_rango_salarial(lista_csv):
@@ -108,13 +136,13 @@ def ordenar_salarios(lista_csv):
 
 
 
-
 if __name__ == '__main__':
     datos_csv = cargar_csv()
-    print(agrupar_por_job_category(datos_csv))
-    print(contar_empleados(datos_csv))
-    print(calcular_salario_minimo(datos_csv))
-    print(calcular_salario_maximo(datos_csv))
+    # print(agrupar_por_job_category(datos_csv))
+    # print(contar_empleados(datos_csv))
+    # print(calcular_salario_minimo(datos_csv))
+    # print(calcular_salario_maximo(datos_csv))
+    #print(calcular_salario_total_categorias(datos_csv))
     print(calcular_salario_medio(datos_csv))
-    print(calcular_rango_salarial(datos_csv))
+    # print(calcular_rango_salarial(datos_csv))
     # print(ordenar_salarios(datos_csv))
