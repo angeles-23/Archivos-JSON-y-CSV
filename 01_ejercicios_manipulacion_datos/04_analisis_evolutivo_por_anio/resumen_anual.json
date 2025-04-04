@@ -1,0 +1,64 @@
+[
+    {
+        "2023": {
+            "total_empleos": 7453,
+            "salario_medio": 155132.59,
+            "tipo_empleo": {
+                "Full-time": 7437,
+                "Part-time": 3,
+                "Contract": 9,
+                "Freelance": 4
+            },
+            "entorno_trabajo": {
+                "Hybrid": 53,
+                "In-person": 4980,
+                "Remote": 2420
+            }
+        },
+        "2022": {
+            "total_empleos": 1634,
+            "salario_medio": 135467.5,
+            "tipo_empleo": {
+                "Full-time": 1621,
+                "Contract": 4,
+                "Part-time": 6,
+                "Freelance": 3
+            },
+            "entorno_trabajo": {
+                "Remote": 872,
+                "Hybrid": 54,
+                "In-person": 708
+            }
+        },
+        "2020": {
+            "total_empleos": 71,
+            "salario_medio": 105878.86,
+            "tipo_empleo": {
+                "Full-time": 65,
+                "Contract": 3,
+                "Part-time": 2,
+                "Freelance": 1
+            },
+            "entorno_trabajo": {
+                "In-person": 16,
+                "Hybrid": 20,
+                "Remote": 35
+            }
+        },
+        "2021": {
+            "total_empleos": 197,
+            "salario_medio": 106483.64,
+            "tipo_empleo": {
+                "Full-time": 187,
+                "Part-time": 4,
+                "Freelance": 3,
+                "Contract": 3
+            },
+            "entorno_trabajo": {
+                "Hybrid": 64,
+                "Remote": 107,
+                "In-person": 26
+            }
+        }
+    }
+]

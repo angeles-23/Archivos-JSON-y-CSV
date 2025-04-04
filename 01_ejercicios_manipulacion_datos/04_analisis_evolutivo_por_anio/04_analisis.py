@@ -12,6 +12,7 @@ def cargar_csv():
     return lista_datos
 
 
+
 def conocer_anios():
     cargar_datos = cargar_csv()
     lista_anios = []
@@ -23,6 +24,7 @@ def conocer_anios():
             lista_anios.append(anios)
 
     return lista_anios
+
 
 
 def agrupar_por_anios():
@@ -53,6 +55,7 @@ def agrupar_por_anios():
     return diccionario_anios
 
 
+
 def calcular_numero_total_empleos():
 
     lista_datos_csv = cargar_csv()
@@ -67,6 +70,7 @@ def calcular_numero_total_empleos():
             cantidad_empleados[anio] += 1
     
     return cantidad_empleados
+
 
 
 def calcular_salario_total_empleos():
@@ -86,9 +90,9 @@ def calcular_salario_total_empleos():
     return salarios_medios
 
 
+
 def calcular_salario_medio():
 
-    lista_datos_csv = cargar_csv()
     cantidades_totales_salarios = calcular_salario_total_empleos()
     cantidades_totales_empleos = calcular_numero_total_empleos()
 
@@ -101,6 +105,7 @@ def calcular_salario_medio():
                 salarios_medios[salarios] = round(salario_medio, 2)
                 
     return salarios_medios
+
 
 
 def calcular_distribucion_employment_type():
@@ -124,6 +129,7 @@ def calcular_distribucion_employment_type():
             
     return distribuciones_tipo            
     
+
     
 def calcular_dictribucion_work_setting():
     cargar_datos = cargar_csv()
@@ -148,8 +154,50 @@ def calcular_dictribucion_work_setting():
     return distribucion_tipos
 
 
+
 def guardar_resultados_csv():
-    ...
+
+    anios = agrupar_por_anios()
+    numero_total_empleos = calcular_numero_total_empleos()
+    total_salarios_medios = calcular_salario_medio()
+
+    lista_diccionarios = []
+    diccionario_anios = {}
+
+    for anio in anios:
+        diccionario_anios = {"anio":anio, "total_empleos": numero_total_empleos[anio], "salario_medio":total_salarios_medios[anio]}
+        lista_diccionarios.append(diccionario_anios)
+    
+    with open('./04_analisis_evolutivo_por_anio/resumen_anual.csv', 'w', newline='', encoding='utf-8') as f:
+        campos = {"anio", "total_empleos", "salario_medio"}
+        escritor = csv.DictWriter(f, fieldnames=campos)
+
+        escritor.writeheader()
+        escritor.writerows(lista_diccionarios)
+
+
+
+def guardar_resumen_anual_json():
+    
+    anios = agrupar_por_anios()
+    numero_total_empleos = calcular_numero_total_empleos()
+    salarios_medios = calcular_salario_medio()
+    tipo_empleo = calcular_distribucion_employment_type()
+    entorno_trabajo = calcular_dictribucion_work_setting()
+
+    lista_de_diccionarios = []
+    diccionario_resumen_anual = {}
+
+    for anio in anios:
+        diccionario_resumen_anual[anio] = {"total_empleos":numero_total_empleos[anio], "salario_medio": salarios_medios[anio], "tipo_empleo": tipo_empleo[anio], "entorno_trabajo": entorno_trabajo[anio]}
+        
+    lista_de_diccionarios.append(diccionario_resumen_anual)
+
+    with open('./04_analisis_evolutivo_por_anio/resumen_anual.json', 'w', encoding='utf-8') as f:
+        json.dump(lista_de_diccionarios, f, indent=4)
+
+    print(diccionario_resumen_anual)
+
 
 
 
@@ -161,4 +209,6 @@ if __name__ == '__main__':
     # print(calcular_salario_total_empleos())
     # print(calcular_salario_medio())
     # print(calcular_distribucion_employment_type())
-    print(calcular_dictribucion_work_setting())
+    # print(calcular_dictribucion_work_setting())
+    # guardar_resultados_csv()
+    guardar_resumen_anual_json()
