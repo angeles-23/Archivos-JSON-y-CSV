@@ -30,9 +30,9 @@ def obtener_nombre_en_mayuscula():
     Obtén una lista con los nombres en mayúsculas.
     '''
     datos = cargar_datos()
-    nombre = (list (map (lambda linea:linea['nombre'].upper(), datos)))
+    nombre_mayuscula = (list (map (lambda linea:linea['nombre'].upper(), datos)))
 
-    return nombre
+    return nombre_mayuscula
 
 
 
@@ -42,13 +42,16 @@ def obtener_total_de_clientes_mayores():
     '''
     datos = cargar_datos()
     
-    total = reduce(lambda x,y: x + y)
-    return total
+    personas_mayores_edad = (list (filter (lambda linea: int(linea['edad']) >= 18, datos) ) ) 
+    cantidad_personas = reduce(lambda contador, persona: contador + 1, personas_mayores_edad, 0)
+
+    return cantidad_personas
+
 
 
 
 if __name__ == '__main__':
-    # print(cargar_datos())
-    # print(buscar_clientes_mayores_de_edad())
+    print(cargar_datos())
+    print(buscar_clientes_mayores_de_edad())
     print(obtener_nombre_en_mayuscula())
     print(obtener_total_de_clientes_mayores())
