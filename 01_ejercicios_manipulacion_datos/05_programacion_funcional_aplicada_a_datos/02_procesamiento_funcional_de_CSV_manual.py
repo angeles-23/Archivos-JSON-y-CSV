@@ -31,7 +31,6 @@ def obtener_nombre_en_mayuscula():
     '''
     datos = cargar_datos()
     nombre_mayuscula = (list (map (lambda linea:linea['nombre'].upper(), datos)))
-
     return nombre_mayuscula
 
 
