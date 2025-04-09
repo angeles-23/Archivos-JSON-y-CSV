@@ -1,8 +1,6 @@
 import os, json
 os.system('cls')
 
-from functools import reduce
-
 
 
 def cargar_datos():
@@ -29,17 +27,22 @@ def filtrar_prductos_True():
 def incrementar_IVA():
     datos = cargar_datos()
 
-    nombres = (list(map(lambda producto:producto['nombre'], datos)))
+    lista = (list(map(lambda productos: f'{productos['nombre']}, {productos['precio'] + (productos['precio']*0.21)}', datos)))
 
-    # precios_sin_IVA = reduce(lambda precios, producto: precios + int(producto['precio'])*0.21, datos, 0) 
-    # print(precios_sin_IVA)
-    precios_incrementados = reduce(lambda acumulador, producto: acumulador + producto['precio'] * 0.21, datos, 0)
-    
-    return nombres
+    # Otra forma de hacerlo:
+    # nombres = (list(map(lambda producto:producto['nombre'], datos)))
+    # precios_con_IVA = (list(map(lambda productos:productos['precio'] + (productos['precio']*0.21), datos)))
+
+    # lista = []
+
+    # for i in range(len(nombres)):
+    #     lista.append(f'{nombres[i]}, {precios_con_IVA[i]}')
+
+    return lista
 
 
 
 if __name__ == '__main__':
-    # print(cargar_datos())
-    # print(filtrar_prductos_True())
+    print(cargar_datos())
+    print(filtrar_prductos_True())
     print(incrementar_IVA())
