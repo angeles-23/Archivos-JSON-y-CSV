@@ -1,4 +1,4 @@
-import csv, json, os
+import csv, os
 os.system('cls')
 
 
