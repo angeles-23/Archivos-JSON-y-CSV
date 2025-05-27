@@ -1,0 +1,89 @@
+[
+    {
+        "año": 2023,
+        "total_empleos": 7453,
+        "salario": 155132.59,
+        "frecuencia": {
+            "Full-time": 7437,
+            "Part-time": 3,
+            "Contract": 9,
+            "Freelance": 4
+        },
+        "distribuciones": {
+            "Hybrid": 53,
+            "In-person": 4980,
+            "Remote": 2420
+        }
+    },
+    {
+        "año": 2022,
+        "total_empleos": 1634,
+        "salario": 135467.5,
+        "frecuencia": {
+            "Full-time": 1621,
+            "Contract": 4,
+            "Part-time": 6,
+            "Freelance": 3
+        },
+        "distribuciones": {
+            "Remote": 872,
+            "Hybrid": 54,
+            "In-person": 708
+        }
+    },
+    {
+        "año": 2020,
+        "total_empleos": 71,
+        "salario": 105878.86,
+        "frecuencia": {
+            "Full-time": 65,
+            "Contract": 3,
+            "Part-time": 2,
+            "Freelance": 1
+        },
+        "distribuciones": {
+            "In-person": 16,
+            "Hybrid": 20,
+            "Remote": 35
+        }
+    },
+    {
+        "año": 2021,
+        "total_empleos": 197,
+        "salario": 106483.64,
+        "frecuencia": {
+            "Full-time": 187,
+            "Part-time": 4,
+            "Freelance": 3,
+            "Contract": 3
+        },
+        "distribuciones": {
+            "Hybrid": 64,
+            "Remote": 107,
+            "In-person": 26
+        }
+    },
+    {
+        "año": 2026,
+        "total_empleos": 1,
+        "salario": 3.0,
+        "frecuencia": {
+            "Contract": 1
+        },
+        "distribuciones": {
+            "Remote": 1
+        }
+    },
+    {
+        "año": 2025,
+        "total_empleos": 2,
+        "salario": 13.0,
+        "frecuencia": {
+            "Contract": 2
+        },
+        "distribuciones": {
+            "Remote": 1,
+            "Personal": 1
+        }
+    }
+]

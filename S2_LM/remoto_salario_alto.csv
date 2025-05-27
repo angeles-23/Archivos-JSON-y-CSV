@@ -1,0 +1,780 @@
+work_year,job_title,job_category,salary,employee_residence,experience_level,employment_type,work_setting,company_location,company_size
+2023,Research Analyst,Data Science and Research,72000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Research Analyst,Data Science and Research,64000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,70000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Quality Analyst,Data Quality and Operations,49216,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2023,Data Quality Analyst,Data Quality and Operations,36912,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,80000,Poland,Senior,Full-time,Remote,Poland,M
+2023,Data Analyst,Data Analysis,36912,United Kingdom,Senior,Full-time,Remote,United Kingdom,S
+2023,Data Engineer,Data Engineering,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,70000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,88200,United States,Entry-level,Full-time,Remote,United States,M
+2023,Business Intelligence Analyst,BI and Visualization,83339,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,91800,United States,Senior,Full-time,Remote,United States,M
+2023,Research Analyst,Data Science and Research,81400,United States,Entry-level,Full-time,Remote,United States,M
+2023,Research Analyst,Data Science and Research,43500,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,73100,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Manager,Leadership and Management,65000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,83000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,66000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,81536,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,78000,Canada,Senior,Full-time,Remote,Canada,M
+2023,Data Management Analyst,Data Management and Strategy,60000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Management Analyst,Data Management and Strategy,52000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Business Intelligence Analyst,BI and Visualization,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Research Analyst,Data Science and Research,71000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Research Analyst,Data Science and Research,57000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,59000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,50000,United States,Mid-level,Full-time,Remote,United States,M
+2023,AI Engineer,Machine Learning and AI,50000,Czech Republic,Mid-level,Contract,Remote,Canada,L
+2023,Data Scientist,Data Science and Research,64781,Spain,Mid-level,Full-time,Remote,Spain,L
+2023,Data Science Consultant,Data Science and Research,21000,Pakistan,Mid-level,Freelance,Remote,Luxembourg,S
+2023,Data Analyst,Data Analysis,98000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,74400,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,88052,United States,Senior,Full-time,Remote,United States,M
+2023,BI Data Analyst,Data Analysis,25000,Ukraine,Entry-level,Full-time,Remote,Netherlands,M
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95400,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,57800,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,84000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Integration Engineer,Data Engineering,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Business Intelligence Engineer,BI and Visualization,78800,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,87500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,95000,Portugal,Mid-level,Full-time,Remote,Portugal,M
+2023,Data Engineer,Data Engineering,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,67000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,94770,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Analytics Engineer,Leadership and Management,37573,Netherlands,Entry-level,Full-time,Remote,Netherlands,M
+2022,AI Research Engineer,Data Science and Research,36940,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,L
+2023,Data Engineer,Data Engineering,97500,United States,Senior,Full-time,Remote,United States,M
+2023,Business Intelligence Engineer,BI and Visualization,89500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Business Intelligence Engineer,BI and Visualization,65000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,85000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,61800,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,74400,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Analytics Engineer,Leadership and Management,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Strategist,Data Architecture and Modeling,70374,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,92280,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Machine Learning Engineer,Machine Learning and AI,67672,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Machine Learning Infrastructure Engineer,Machine Learning and AI,79976,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2023,Business Data Analyst,Data Analysis,79976,Spain,Senior,Full-time,Remote,Gibraltar,L
+2023,Data Analyst,Data Analysis,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,57223,France,Mid-level,Full-time,Remote,France,M
+2023,Data Engineer,Data Engineering,51824,France,Mid-level,Full-time,Remote,France,M
+2023,Data Quality Analyst,Data Quality and Operations,65000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Quality Analyst,Data Quality and Operations,60000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,87500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,62500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,36000,Uganda,Entry-level,Full-time,Remote,United States,M
+2023,AI Developer,Machine Learning and AI,50000,Ukraine,Entry-level,Full-time,Remote,Ukraine,M
+2023,Machine Learning Engineer,Machine Learning and AI,70179,Italy,Senior,Full-time,Remote,United States,L
+2023,Data Analyst,Data Analysis,78000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,66691,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95040,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,59400,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,50000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,50000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,19434,Greece,Entry-level,Full-time,Remote,Greece,L
+2023,Data Analyst,Data Analysis,53000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,48000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,93919,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,51962,United States,Senior,Full-time,Remote,United States,M
+2023,BI Analyst,BI and Visualization,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Insight Analyst,Data Analysis,53984,Portugal,Mid-level,Full-time,Remote,Portugal,M
+2023,Insight Analyst,Data Analysis,43187,Portugal,Mid-level,Full-time,Remote,Portugal,M
+2023,Data Integration Specialist,Data Management and Strategy,63750,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Integration Specialist,Data Management and Strategy,46400,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,55368,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,44294,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,96313,Canada,Mid-level,Full-time,Remote,Canada,S
+2023,Data Analyst,Data Analysis,48585,Portugal,Mid-level,Full-time,Remote,Portugal,M
+2023,Data Analyst,Data Analysis,43187,Portugal,Mid-level,Full-time,Remote,Portugal,M
+2023,Data Analyst,Data Analysis,82500,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,88000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,93919,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,51962,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,83667,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,74400,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,90000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,48585,Italy,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,86720,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,90000,United States,Executive,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,70000,United States,Executive,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,43187,Poland,Mid-level,Full-time,Remote,Poland,L
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Developer,Leadership and Management,72409,United States,Mid-level,Full-time,Remote,United States,M
+2023,Business Data Analyst,Data Analysis,17000,Armenia,Mid-level,Full-time,Remote,Russia,L
+2023,AI Engineer,Machine Learning and AI,35000,Croatia,Entry-level,Full-time,Remote,Germany,M
+2023,AI Developer,Machine Learning and AI,53984,Italy,Senior,Full-time,Remote,Italy,S
+2023,Machine Learning Engineer,Machine Learning and AI,95000,Canada,Senior,Full-time,Remote,Canada,M
+2023,Data Developer,Leadership and Management,69139,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,79976,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Scientist,Data Science and Research,55368,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Operations Engineer,Machine Learning and AI,60000,Thailand,Senior,Full-time,Remote,United States,L
+2023,Data Specialist,Data Management and Strategy,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Specialist,Data Management and Strategy,73000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,70000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,93919,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,51962,United States,Senior,Full-time,Remote,United States,M
+2023,ML Engineer,Machine Learning and AI,85000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Strategy Manager,Data Management and Strategy,90000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,87500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,62500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,67672,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,67672,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Research Engineer,Data Science and Research,86128,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Research Engineer,Data Science and Research,67672,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Scientist,Data Science and Research,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,73500,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,Canada,Senior,Full-time,Remote,Canada,M
+2023,Data Engineer,Data Engineering,86682,Canada,Senior,Full-time,Remote,Canada,M
+2023,Data Analyst,Data Analysis,65000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,55000,United States,Senior,Full-time,Remote,United States,M
+2023,AI Engineer,Machine Learning and AI,32811,Spain,Mid-level,Full-time,Remote,Spain,L
+2023,Data Engineer,Data Engineering,92280,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Machine Learning Engineer,Machine Learning and AI,38868,Spain,Mid-level,Full-time,Remote,Spain,L
+2023,AI Engineer,Machine Learning and AI,64781,Spain,Senior,Full-time,Remote,Spain,M
+2023,Data Analyst,Data Analysis,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,49216,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,43064,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,MLOps Engineer,Machine Learning and AI,27568,Brazil,Mid-level,Full-time,Remote,Brazil,L
+2023,Analytics Engineer,Leadership and Management,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Analytics Engineer,Leadership and Management,84000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,90000,France,Mid-level,Full-time,Remote,France,M
+2023,Business Intelligence Analyst,BI and Visualization,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,72000,Brazil,Senior,Full-time,Remote,Brazil,M
+2023,Data Engineer,Data Engineering,60000,Brazil,Senior,Full-time,Remote,Brazil,M
+2023,Data Analyst,Data Analysis,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Business Data Analyst,Data Analysis,35000,Philippines,Mid-level,Contract,Remote,United States,M
+2023,Data Engineer,Data Engineering,84000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,86128,Canada,Mid-level,Full-time,Remote,Canada,M
+2023,Data Engineer,Data Engineering,61520,Canada,Mid-level,Full-time,Remote,Canada,M
+2023,Data Engineer,Data Engineering,49216,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,43064,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Applied Machine Learning Scientist,Machine Learning and AI,97712,Italy,Mid-level,Contract,Remote,Netherlands,L
+2023,AI Research Engineer,Data Science and Research,24940,Portugal,Entry-level,Full-time,Remote,Portugal,M
+2023,Data Scientist,Data Science and Research,25912,Italy,Mid-level,Full-time,Remote,Italy,S
+2023,Business Data Analyst,Data Analysis,78000,United States,Senior,Full-time,Remote,United States,L
+2023,Research Analyst,Data Science and Research,53444,Spain,Senior,Full-time,Remote,Spain,M
+2023,Research Analyst,Data Science and Research,45150,Spain,Senior,Full-time,Remote,Spain,M
+2023,Research Analyst,Data Science and Research,56359,Italy,Senior,Full-time,Remote,Italy,M
+2023,Research Analyst,Data Science and Research,47799,Italy,Senior,Full-time,Remote,Italy,M
+2022,Research Engineer,Data Science and Research,16455,Russia,Entry-level,Full-time,Remote,Russia,M
+2023,Data Analyst,Data Analysis,81500,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,54000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,36000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Manager,Leadership and Management,82500,United States,Senior,Full-time,Remote,United States,M
+2023,Data Operations Analyst,Data Quality and Operations,65100,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Operations Analyst,Data Quality and Operations,44640,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,70000,United States,Senior,Full-time,Remote,United States,M
+2023,BI Data Analyst,Data Analysis,50000,Kenya,Entry-level,Full-time,Remote,Kenya,S
+2023,BI Data Analyst,Data Analysis,85000,Canada,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Lead Data Scientist,Data Science and Research,36000,Russia,Senior,Full-time,Remote,Russia,L
+2023,Data Scientist,Data Science and Research,86128,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Specialist,Data Management and Strategy,87500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Specialist,Data Management and Strategy,62500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Research Scientist,Data Science and Research,90600,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,49216,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,43064,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2023,Principal Data Engineer,Data Engineering,91773,Spain,Senior,Full-time,Remote,Spain,M
+2023,Data Analyst,Data Analysis,74400,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,65000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,55000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Architect,Data Architecture and Modeling,92000,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,90599,Germany,Senior,Full-time,Remote,Germany,M
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,82254,Canada,Mid-level,Full-time,Remote,Canada,L
+2023,Data Scientist,Data Science and Research,61699,Canada,Mid-level,Full-time,Remote,Canada,L
+2023,Business Intelligence Analyst,BI and Visualization,87500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Business Intelligence Analyst,BI and Visualization,62500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,77737,Spain,Senior,Full-time,Remote,Spain,M
+2023,Data Engineer,Data Engineering,64311,Spain,Senior,Full-time,Remote,Spain,M
+2023,Data Analyst,Data Analysis,75000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,65000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,75577,Italy,Senior,Full-time,Remote,Italy,M
+2023,Data Engineer,Data Engineering,62433,Italy,Senior,Full-time,Remote,Italy,M
+2023,Power BI Developer,BI and Visualization,64781,Poland,Mid-level,Full-time,Remote,Denmark,L
+2023,Data Analyst,Data Analysis,59000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,92280,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2023,Data Scientist,Data Science and Research,79976,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2022,Business Intelligence Developer,BI and Visualization,15000,Ghana,Mid-level,Full-time,Remote,Ghana,M
+2023,Data Analyst,Data Analysis,89100,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,94000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,81900,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,92280,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,86374,Germany,Senior,Full-time,Remote,Sweden,L
+2023,BI Analyst,BI and Visualization,75000,United States,Senior,Full-time,Remote,United States,M
+2023,BI Analyst,BI and Visualization,87200,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,61520,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Scientist,Data Science and Research,49216,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Scientist,Data Science and Research,71259,Spain,Senior,Full-time,Remote,Spain,M
+2023,Data Analyst,Data Analysis,74400,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,82365,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,78400,United States,Senior,Full-time,Remote,United States,L
+2023,Data Engineer,Data Engineering,71908,United States,Executive,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Computer Vision Engineer,Machine Learning and AI,92280,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,94000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,94400,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,61520,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,43064,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,76000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,60000,United States,Mid-level,Full-time,Remote,United States,M
+2023,BI Analyst,BI and Visualization,18381,Turkey,Senior,Full-time,Remote,Turkey,L
+2023,Data Scientist,Data Science and Research,78000,United States,Executive,Full-time,Remote,United States,M
+2023,Machine Learning Specialist,Machine Learning and AI,70000,France,Mid-level,Full-time,Remote,France,M
+2023,Machine Learning Specialist,Machine Learning and AI,40000,France,Mid-level,Full-time,Remote,France,M
+2023,Data Analyst,Data Analysis,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,72250,United States,Senior,Full-time,Remote,United States,M
+2023,Research Analyst,Data Science and Research,83000,United States,Senior,Full-time,Remote,United States,M
+2023,Research Analyst,Data Science and Research,63967,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,96000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,72000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,70179,France,Mid-level,Full-time,Remote,France,M
+2023,Data Engineer,Data Engineering,64781,France,Mid-level,Full-time,Remote,France,M
+2023,AI Programmer,Machine Learning and AI,74087,Canada,Entry-level,Full-time,Remote,Canada,L
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,90000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,98432,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2023,Data Scientist,Data Science and Research,16000,Ecuador,Entry-level,Full-time,Remote,Ecuador,L
+2023,Data Engineer,Data Engineering,27000,Peru,Mid-level,Full-time,Remote,Portugal,S
+2023,Data Manager,Leadership and Management,72000,Mexico,Executive,Full-time,Remote,Mexico,S
+2023,Data Analyst,Data Analysis,83700,United States,Senior,Full-time,Remote,United States,M
+2023,AI Scientist,Machine Learning and AI,20000,Turkey,Entry-level,Full-time,Remote,Turkey,S
+2023,Machine Learning Research Engineer,Data Science and Research,90000,Saudi Arabia,Mid-level,Full-time,Remote,Saudi Arabia,M
+2023,Data Engineer,Data Engineering,72000,Colombia,Mid-level,Full-time,Remote,Colombia,M
+2023,Data Engineer,Data Engineering,60000,Colombia,Mid-level,Full-time,Remote,Colombia,M
+2023,Data Analyst,Data Analysis,94400,United States,Senior,Full-time,Remote,United States,M
+2023,Data Architect,Data Architecture and Modeling,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,71908,United States,Entry-level,Full-time,Remote,United States,M
+2023,AI Scientist,Machine Learning and AI,81838,Australia,Mid-level,Full-time,Remote,Australia,L
+2023,Compliance Data Analyst,Data Analysis,60000,United States,Entry-level,Full-time,Remote,United States,L
+2023,Analytics Engineer,Leadership and Management,82920,United States,Senior,Full-time,Remote,United States,M
+2023,Applied Scientist,Data Science and Research,20000,Nigeria,Mid-level,Full-time,Remote,United States,L
+2023,Data Operations Specialist,Data Quality and Operations,55720,United States,Senior,Full-time,Remote,United States,M
+2023,Data Operations Specialist,Data Quality and Operations,50700,United States,Senior,Full-time,Remote,United States,M
+2021,Business Data Analyst,Data Analysis,56000,Ghana,Mid-level,Part-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,65000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,55000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,BI Analyst,BI and Visualization,93000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,46565,Poland,Senior,Full-time,Remote,Poland,L
+2023,Data Engineer,Data Engineering,68637,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Computer Vision Engineer,Machine Learning and AI,90000,India,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,72000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,60000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,93500,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,50000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,40000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,41027,Spain,Entry-level,Full-time,Remote,Spain,L
+2023,Business Intelligence Developer,BI and Visualization,76500,Canada,Senior,Full-time,Remote,Canada,M
+2023,Data Engineer,Data Engineering,70000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,70000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,24000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,65000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,93000,United States,Mid-level,Full-time,Remote,United States,L
+2023,Data Engineer,Data Engineering,80976,Spain,Mid-level,Full-time,Remote,Spain,M
+2023,Data Engineer,Data Engineering,66940,Spain,Mid-level,Full-time,Remote,Spain,M
+2023,Data Engineer,Data Engineering,92280,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,76284,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Business Intelligence Data Analyst,Data Analysis,99000,United States,Entry-level,Full-time,Remote,United States,L
+2023,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,55000,United States,Executive,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,94000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,94035,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,57920,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,78000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,72000,Argentina,Senior,Full-time,Remote,Argentina,M
+2023,Data Engineer,Data Engineering,48000,Argentina,Senior,Full-time,Remote,Argentina,M
+2023,Data Analyst,Data Analysis,92000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,84000,Colombia,Senior,Full-time,Remote,Colombia,M
+2023,Data Analyst,Data Analysis,60000,Colombia,Senior,Full-time,Remote,Colombia,M
+2023,BI Data Analyst,Data Analysis,70000,Egypt,Mid-level,Full-time,Remote,United States,M
+2021,Machine Learning Developer,Machine Learning and AI,60000,Nigeria,Senior,Freelance,Remote,Nigeria,M
+2023,Data Integration Specialist,Data Management and Strategy,69500,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Integration Specialist,Data Management and Strategy,46400,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,69525,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,61800,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,40000,Uzbekistan,Entry-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,71907,United States,Entry-level,Full-time,Remote,United States,M
+2023,Analytics Engineer,Leadership and Management,80000,Canada,Senior,Full-time,Remote,Canada,M
+2023,Data Analyst,Data Analysis,90000,United States,Senior,Full-time,Remote,United States,M
+2023,BI Data Analyst,Data Analysis,60000,Argentina,Entry-level,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,55410,France,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Product Data Analyst,Data Analysis,57000,Georgia,Senior,Full-time,Remote,Russia,L
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Specialist,Data Management and Strategy,87500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Specialist,Data Management and Strategy,62500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,83000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,72000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,72000,Colombia,Senior,Full-time,Remote,Colombia,M
+2023,Data Engineer,Data Engineering,60000,Colombia,Senior,Full-time,Remote,Colombia,M
+2023,Data Science Manager,Data Science and Research,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,80000,Argentina,Senior,Full-time,Remote,Argentina,M
+2023,Data Engineer,Data Engineering,60000,Argentina,Senior,Full-time,Remote,Argentina,M
+2023,Data Analyst,Data Analysis,82200,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,49216,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,43064,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2023,Analytics Engineer,Leadership and Management,50000,Nigeria,Senior,Full-time,Remote,Nigeria,S
+2023,NLP Engineer,Machine Learning and AI,75038,Spain,Senior,Full-time,Remote,Spain,M
+2023,NLP Engineer,Machine Learning and AI,64781,Spain,Senior,Full-time,Remote,Spain,M
+2023,NLP Engineer,Machine Learning and AI,71475,Italy,Senior,Full-time,Remote,Italy,M
+2023,NLP Engineer,Machine Learning and AI,61541,Italy,Senior,Full-time,Remote,Italy,M
+2023,Principal Data Scientist,Data Science and Research,86374,Spain,Senior,Full-time,Remote,Spain,L
+2023,ML Engineer,Machine Learning and AI,30000,United States,Mid-level,Contract,Remote,United States,S
+2023,ML Engineer,Machine Learning and AI,25500,United States,Mid-level,Contract,Remote,United States,S
+2023,Compliance Data Analyst,Data Analysis,30000,Nigeria,Entry-level,Full-time,Remote,Nigeria,L
+2023,Applied Machine Learning Engineer,Machine Learning and AI,70179,India,Mid-level,Full-time,Remote,Germany,S
+2023,Machine Learning Engineer,Machine Learning and AI,97171,Netherlands,Mid-level,Full-time,Remote,Netherlands,L
+2022,Machine Learning Engineer,Machine Learning and AI,56536,Switzerland,Entry-level,Full-time,Remote,Switzerland,S
+2023,Data Engineer,Data Engineering,70000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,83270,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,70000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,55368,Central African Republic,Senior,Full-time,Remote,Central African Republic,M
+2023,Data Analyst,Data Analysis,43064,Central African Republic,Senior,Full-time,Remote,Central African Republic,M
+2023,ETL Engineer,Data Engineering,86128,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,ETL Engineer,Data Engineering,58444,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,85000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Applied Data Scientist,Data Science and Research,67635,Australia,Senior,Full-time,Remote,Finland,M
+2022,Data Scientist,Data Science and Research,88256,Spain,Senior,Full-time,Remote,United Kingdom,L
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Manager,Leadership and Management,86000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,51861,Canada,Entry-level,Full-time,Remote,Canada,L
+2023,Data Scientist,Data Science and Research,71907,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,93918,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,51962,United States,Mid-level,Full-time,Remote,United States,M
+2023,Big Data Engineer,Data Engineering,48585,Spain,Mid-level,Full-time,Remote,Spain,M
+2023,BI Data Engineer,Data Engineering,60000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,90000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,64200,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,56100,United States,Entry-level,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,95000,Canada,Senior,Full-time,Remote,Canada,M
+2023,Data Engineer,Data Engineering,92700,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,61800,United States,Entry-level,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,59888,Netherlands,Entry-level,Full-time,Remote,Netherlands,L
+2023,Data Analyst,Data Analysis,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,73546,Germany,Mid-level,Full-time,Remote,Germany,M
+2023,Data Engineer,Data Engineering,75000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,60400,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,85000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,92700,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,61800,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,60462,Austria,Mid-level,Full-time,Remote,Germany,M
+2023,Data Analyst,Data Analysis,83500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,52500,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,62000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,58000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,90000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Applied Machine Learning Scientist,Machine Learning and AI,90000,United States,Senior,Full-time,Remote,United States,L
+2023,Data Analyst,Data Analysis,95000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,70000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2023,Data Architect,Data Architecture and Modeling,92000,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,86128,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,58444,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,75000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,65000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Software Data Engineer,Data Engineering,74883,Singapore,Mid-level,Full-time,Remote,Singapore,L
+2023,Data Analyst,Data Analysis,75000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,60000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,75577,Slovenia,Mid-level,Full-time,Remote,Slovenia,M
+2023,Data Engineer,Data Engineering,48585,Slovenia,Mid-level,Full-time,Remote,Slovenia,M
+2023,Data Analyst,Data Analysis,94000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,72000,Mexico,Mid-level,Full-time,Remote,Mexico,M
+2023,Data Engineer,Data Engineering,60000,Mexico,Mid-level,Full-time,Remote,Mexico,M
+2023,Data Scientist,Data Science and Research,97750,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,82920,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,78000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,79976,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,44356,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,85000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,90000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,34320,United States,Entry-level,Part-time,Remote,United States,S
+2023,Head of Data,Leadership and Management,75577,Portugal,Senior,Full-time,Remote,Portugal,L
+2023,Data Analyst,Data Analysis,93800,United States,Senior,Full-time,Remote,United States,M
+2023,Data Science Manager,Data Science and Research,90000,Mexico,Senior,Full-time,Remote,Mexico,M
+2023,BI Data Analyst,Data Analysis,72338,Germany,Senior,Full-time,Remote,Germany,M
+2023,Research Engineer,Data Science and Research,86374,Germany,Senior,Full-time,Remote,Germany,S
+2023,Data Analyst,Data Analysis,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,86466,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,65000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,80000,United States,Senior,Full-time,Remote,United States,S
+2023,Data Engineer,Data Engineering,81500,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,66000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,18160,Poland,Entry-level,Part-time,Remote,India,L
+2023,Data Scientist,Data Science and Research,19910,Brazil,Entry-level,Full-time,Remote,Brazil,L
+2023,Machine Learning Infrastructure Engineer,Machine Learning and AI,75577,France,Senior,Full-time,Remote,France,M
+2023,Data Analyst,Data Analysis,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,60000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,49216,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Research Engineer,Data Science and Research,60000,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2023,Data Analyst,Data Analysis,56143,Spain,Senior,Full-time,Remote,Spain,M
+2023,Data Analyst,Data Analysis,51824,Spain,Senior,Full-time,Remote,Spain,M
+2023,Data Analyst,Data Analysis,60000,United States,Entry-level,Full-time,Remote,United States,L
+2023,Data Analyst,Data Analysis,85000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,75000,United States,Entry-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,63000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,93919,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,51962,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,90000,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,36000,Mexico,Mid-level,Full-time,Remote,Mexico,S
+2023,Computer Vision Software Engineer,Machine Learning and AI,53984,Netherlands,Senior,Full-time,Remote,Canada,L
+2023,Data Engineer,Data Engineering,67672,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,63980,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,66940,Spain,Mid-level,Full-time,Remote,Spain,M
+2023,Data Engineer,Data Engineering,59382,Spain,Mid-level,Full-time,Remote,Spain,M
+2023,Data Engineer,Data Engineering,26992,Germany,Entry-level,Full-time,Remote,Germany,L
+2022,Research Scientist,Data Science and Research,23000,India,Mid-level,Full-time,Remote,India,L
+2023,Data Analyst,Data Analysis,87000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,30000,Argentina,Entry-level,Full-time,Remote,United States,S
+2023,Data Engineer,Data Engineering,94000,Canada,Senior,Full-time,Remote,Canada,M
+2023,Data Engineer,Data Engineering,90000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,85000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,75000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,84000,United States,Senior,Full-time,Remote,United States,M
+2023,Applied Data Scientist,Data Science and Research,80000,Kenya,Mid-level,Full-time,Remote,Kenya,S
+2023,Data Engineer,Data Engineering,95000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,63000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,90000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,50000,India,Entry-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,95000,Spain,Mid-level,Full-time,Remote,Spain,M
+2023,Data Engineer,Data Engineering,80000,Spain,Mid-level,Full-time,Remote,Spain,M
+2023,Data Engineer,Data Engineering,96100,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,84000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,25216,Spain,Entry-level,Part-time,Remote,United States,L
+2023,Data Analyst,Data Analysis,80000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,64000,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,76284,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Machine Learning Engineer,Machine Learning and AI,63980,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Machine Learning Engineer,Machine Learning and AI,59059,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Machine Learning Engineer,Machine Learning and AI,46755,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2023,Data Engineer,Data Engineering,75000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,51000,United States,Senior,Full-time,Remote,United States,M
+2022,Applied Data Scientist,Data Science and Research,40000,Australia,Entry-level,Full-time,Remote,Pakistan,M
+2022,AI Programmer,Machine Learning and AI,40000,Pakistan,Entry-level,Full-time,Remote,Australia,M
+2022,Data Engineer,Data Engineering,63000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,94560,France,Mid-level,Full-time,Remote,France,M
+2022,Data Scientist,Data Science and Research,52533,France,Mid-level,Full-time,Remote,France,M
+2022,Machine Learning Developer,Machine Learning and AI,40000,Pakistan,Entry-level,Full-time,Remote,Australia,M
+2022,Data Analyst,Data Analysis,75000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,60000,United States,Mid-level,Full-time,Remote,United States,M
+2022,NLP Engineer,Machine Learning and AI,44365,Poland,Mid-level,Full-time,Remote,Poland,S
+2022,Data Engineer,Data Engineering,92350,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,73880,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2022,Computer Vision Engineer,Machine Learning and AI,58837,France,Mid-level,Full-time,Remote,France,S
+2022,Data Analyst,Data Analysis,66100,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,80000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,75000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,60000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,65000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,89200,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,65000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,55000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,63040,France,Mid-level,Full-time,Remote,France,M
+2022,Data Scientist,Data Science and Research,52533,France,Mid-level,Full-time,Remote,France,M
+2022,Data Analytics Consultant,Leadership and Management,50000,Belgium,Entry-level,Freelance,Remote,United States,S
+2022,Data Engineer,Data Engineering,75000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,90000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,96000,United States,Senior,Full-time,Remote,United States,M
+2022,Machine Learning Engineer,Machine Learning and AI,73546,France,Senior,Full-time,Remote,France,M
+2022,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,L
+2022,Data Engineer,Data Engineering,90000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Deep Learning Engineer,Machine Learning and AI,86193,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Deep Learning Engineer,Machine Learning and AI,49253,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,61566,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,43096,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2022,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2022,Machine Learning Developer,Machine Learning and AI,33000,Italy,Entry-level,Full-time,Remote,Germany,S
+2022,Machine Learning Scientist,Machine Learning and AI,34672,Italy,Entry-level,Full-time,Remote,Germany,S
+2022,Data Engineer,Data Engineering,90000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Manager,Leadership and Management,77300,United States,Entry-level,Full-time,Remote,United States,M
+2022,Data Manager,Leadership and Management,45600,United States,Entry-level,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,85000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,78000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,61566,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,49253,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2022,Data Analyst,Data Analysis,64000,United States,Entry-level,Full-time,Remote,United States,L
+2022,Data Engineer,Data Engineering,97000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,90000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,30000,Mexico,Mid-level,Full-time,Remote,Mexico,L
+2022,Analytics Engineer,Leadership and Management,78000,Brazil,Mid-level,Full-time,Remote,Brazil,M
+2022,Analytics Engineer,Leadership and Management,48000,Brazil,Mid-level,Full-time,Remote,Brazil,M
+2022,Data Engineer,Data Engineering,78000,Brazil,Mid-level,Full-time,Remote,Brazil,M
+2022,Data Engineer,Data Engineering,42000,Brazil,Mid-level,Full-time,Remote,Brazil,M
+2022,BI Analyst,BI and Visualization,78000,Brazil,Mid-level,Full-time,Remote,Brazil,M
+2022,BI Analyst,BI and Visualization,48000,Brazil,Mid-level,Full-time,Remote,Brazil,M
+2022,Data Analyst,Data Analysis,89200,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,84000,Brazil,Mid-level,Full-time,Remote,Brazil,M
+2022,Data Scientist,Data Science and Research,54000,Brazil,Mid-level,Full-time,Remote,Brazil,M
+2022,Data Scientist,Data Science and Research,80000,United States,Entry-level,Full-time,Remote,United States,L
+2022,Data Scientist,Data Science and Research,73742,Canada,Entry-level,Full-time,Remote,Canada,L
+2022,Data Scientist,Data Science and Research,38000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,38000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,50000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,38000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,55000,United States,Senior,Full-time,Remote,United States,S
+2022,Data Engineer,Data Engineering,50000,United States,Senior,Full-time,Remote,United States,M
+2022,ML Engineer,Machine Learning and AI,98200,United States,Mid-level,Full-time,Remote,United States,L
+2022,Data Analyst,Data Analysis,95000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Architect,Data Architecture and Modeling,66000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,50000,United States,Senior,Full-time,Remote,United States,M
+2022,BI Data Analyst,Data Analysis,57000,United States,Entry-level,Full-time,Remote,United States,L
+2022,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,75648,Germany,Mid-level,Full-time,Remote,Germany,S
+2022,Lead Machine Learning Engineer,Machine Learning and AI,69344,Portugal,Senior,Full-time,Remote,Portugal,L
+2022,Data Analyst,Data Analysis,90000,United States,Senior,Contract,Remote,United States,M
+2022,Analytics Engineer,Leadership and Management,85000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,85000,United States,Senior,Full-time,Remote,United States,M
+2022,ETL Developer,Data Engineering,63000,United States,Senior,Full-time,Remote,United States,M
+2022,AI Scientist,Machine Learning and AI,50000,United States,Entry-level,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,99750,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,68400,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,85000,United States,Senior,Full-time,Remote,United States,M
+2022,ML Engineer,Machine Learning and AI,84000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Operations Engineer,Data Quality and Operations,60000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,80036,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,67723,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,AI Scientist,Machine Learning and AI,31520,Portugal,Entry-level,Full-time,Remote,Spain,M
+2022,Data Engineer,Data Engineering,80000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,85000,United States,Senior,Full-time,Remote,United States,M
+2022,NLP Engineer,Machine Learning and AI,60000,India,Mid-level,Contract,Remote,United States,S
+2022,Business Data Analyst,Data Analysis,50000,India,Entry-level,Full-time,Remote,American Samoa,L
+2022,Data Engineer,Data Engineering,80036,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,67723,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Operations Engineer,Data Quality and Operations,60000,United States,Mid-level,Full-time,Remote,United States,M
+2021,Machine Learning Developer,Machine Learning and AI,15000,Thailand,Entry-level,Full-time,Remote,Thailand,L
+2022,Data Operations Engineer,Data Quality and Operations,60000,United States,Mid-level,Full-time,Remote,United States,M
+2022,ETL Developer,Data Engineering,63000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,63000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,63000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,97500,United States,Mid-level,Full-time,Remote,United States,L
+2022,Data Engineer,Data Engineering,84053,Greece,Mid-level,Full-time,Remote,Greece,M
+2022,Data Engineer,Data Engineering,73546,Greece,Mid-level,Full-time,Remote,Greece,M
+2022,Data Engineer,Data Engineering,98506,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,86193,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,84053,Spain,Mid-level,Full-time,Remote,Spain,M
+2022,Data Engineer,Data Engineering,73546,Spain,Mid-level,Full-time,Remote,Spain,M
+2022,Analytics Engineer,Leadership and Management,80041,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,82280,United Kingdom,Senior,Full-time,Remote,United Kingdom,M
+2022,Data Operations Analyst,Data Quality and Operations,81000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Operations Analyst,Data Quality and Operations,66000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,46000,United States,Entry-level,Full-time,Remote,United States,L
+2022,Data Engineer,Data Engineering,80000,United States,Entry-level,Full-time,Remote,United States,L
+2022,Data Specialist,Data Management and Strategy,95000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Specialist,Data Management and Strategy,70000,United States,Senior,Full-time,Remote,United States,M
+2022,Applied Machine Learning Scientist,Machine Learning and AI,75000,Bolivia,Mid-level,Full-time,Remote,United States,M
+2021,Data Analyst,Data Analysis,50000,Philippines,Senior,Full-time,Remote,Philippines,S
+2022,BI Data Analyst,Data Analysis,53368,Australia,Mid-level,Full-time,Remote,Australia,M
+2022,Data Scientist,Data Science and Research,54634,Netherlands,Mid-level,Full-time,Remote,Netherlands,S
+2022,Data Engineer,Data Engineering,85000,United States,Senior,Full-time,Remote,United States,M
+2022,Machine Learning Engineer,Machine Learning and AI,85000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,99450,United States,Senior,Full-time,Remote,United States,M
+2022,Machine Learning Engineer,Machine Learning and AI,55410,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,S
+2022,BI Data Analyst,Data Analysis,50432,Germany,Mid-level,Full-time,Remote,Germany,S
+2022,Data Analyst,Data Analysis,50000,Argentina,Entry-level,Full-time,Remote,Argentina,L
+2022,Data Scientist,Data Science and Research,84053,Belgium,Entry-level,Full-time,Remote,Belgium,L
+2022,Analytics Engineer,Leadership and Management,48000,Argentina,Senior,Full-time,Remote,United States,S
+2022,Data Analyst,Data Analysis,55000,United States,Entry-level,Full-time,Remote,United States,S
+2022,Applied Machine Learning Scientist,Machine Learning and AI,77119,France,Senior,Full-time,Remote,United Kingdom,L
+2022,Machine Learning Engineer,Machine Learning and AI,30000,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,L
+2022,Data Scientist,Data Science and Research,60938,Germany,Mid-level,Full-time,Remote,Germany,S
+2022,Data Analyst,Data Analysis,93700,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,92000,United States,Senior,Full-time,Remote,United States,L
+2022,Data Analyst,Data Analysis,99450,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,86000,United States,Entry-level,Full-time,Remote,United States,L
+2022,Machine Learning Scientist,Machine Learning and AI,22800,Egypt,Mid-level,Full-time,Remote,Egypt,M
+2022,Data Scientist,Data Science and Research,92000,United States,Senior,Full-time,Remote,United States,L
+2020,Data Analyst,Data Analysis,22809,Portugal,Entry-level,Full-time,Remote,Portugal,M
+2022,Data Engineer,Data Engineering,92350,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,67723,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Analyst,Data Analysis,90320,United States,Senior,Full-time,Remote,United States,M
+2022,Machine Learning Engineer,Machine Learning and AI,84053,France,Mid-level,Full-time,Remote,Germany,M
+2022,Data Analyst,Data Analysis,93700,United States,Senior,Full-time,Remote,United States,M
+2022,Machine Learning Engineer,Machine Learning and AI,35093,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,L
+2022,Data Analyst,Data Analysis,49253,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Analyst,Data Analysis,36940,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Analyst,Data Analysis,42026,Spain,Mid-level,Full-time,Remote,Spain,M
+2022,Data Analyst,Data Analysis,31520,Spain,Mid-level,Full-time,Remote,Spain,M
+2022,Data Engineer,Data Engineering,84053,Spain,Mid-level,Full-time,Remote,Spain,M
+2022,Data Engineer,Data Engineering,73546,Spain,Mid-level,Full-time,Remote,Spain,M
+2022,Data Engineer,Data Engineering,98506,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,86193,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,84053,Greece,Mid-level,Full-time,Remote,Greece,M
+2022,Data Engineer,Data Engineering,73546,Greece,Mid-level,Full-time,Remote,Greece,M
+2022,Data Analyst,Data Analysis,42026,Greece,Mid-level,Full-time,Remote,Greece,M
+2022,Data Analyst,Data Analysis,31520,Greece,Mid-level,Full-time,Remote,Greece,M
+2022,Data Engineer,Data Engineering,92350,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,73880,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,63040,Spain,Mid-level,Full-time,Remote,Spain,M
+2022,Data Engineer,Data Engineering,47280,Spain,Mid-level,Full-time,Remote,Spain,M
+2022,Data Engineer,Data Engineering,63040,Greece,Mid-level,Full-time,Remote,Greece,M
+2022,Data Engineer,Data Engineering,47280,Greece,Mid-level,Full-time,Remote,Greece,M
+2022,Data Engineer,Data Engineering,73880,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,55410,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,M
+2022,Data Science Engineer,Data Science and Research,60000,Argentina,Senior,Full-time,Remote,Mexico,L
+2022,Data Analyst,Data Analysis,90320,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,84900,United States,Senior,Full-time,Remote,United States,M
+2022,Data Scientist,Data Science and Research,99360,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,49253,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2022,Data Engineer,Data Engineering,43096,United Kingdom,Entry-level,Full-time,Remote,United Kingdom,M
+2022,Data Architect,Data Architecture and Modeling,90700,Canada,Senior,Full-time,Remote,Canada,M
+2022,Data Analyst,Data Analysis,61300,Canada,Senior,Full-time,Remote,Canada,M
+2022,Data Analyst,Data Analysis,61300,Canada,Senior,Full-time,Remote,Canada,M
+2022,Data Analyst,Data Analysis,90320,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,90320,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,93700,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,99050,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,90320,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,81666,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,80000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,60000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,69000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,25000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,50000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Machine Learning Engineer,Machine Learning and AI,65000,United Arab Emirates,Senior,Full-time,Remote,United Arab Emirates,S
+2022,Data Engineer,Data Engineering,80000,United States,Senior,Full-time,Remote,United States,M
+2022,Machine Learning Developer,Machine Learning and AI,76814,Canada,Mid-level,Full-time,Remote,Canada,M
+2022,Applied Machine Learning Scientist,Machine Learning and AI,75000,Bolivia,Mid-level,Full-time,Remote,United States,L
+2022,Data Engineer,Data Engineering,65000,United States,Entry-level,Full-time,Remote,United States,S
+2022,Machine Learning Engineer,Machine Learning and AI,68293,Ireland,Senior,Full-time,Remote,Ireland,S
+2022,Data Scientist,Data Science and Research,67597,Canada,Mid-level,Full-time,Remote,Canada,M
+2022,Data Analyst,Data Analysis,20000,Greece,Mid-level,Full-time,Remote,Greece,S
+2022,Data Scientist,Data Science and Research,51081,Canada,Entry-level,Full-time,Remote,Canada,L
+2022,Data Scientist,Data Science and Research,78000,United States,Mid-level,Full-time,Remote,United States,M
+2022,Machine Learning Engineer,Machine Learning and AI,83864,Australia,Mid-level,Full-time,Remote,Australia,L
+2022,Data Scientist,Data Science and Research,40000,Japan,Entry-level,Full-time,Remote,Malaysia,L
+2022,Head of Data,Leadership and Management,31520,Estonia,Mid-level,Full-time,Remote,Estonia,S
+2022,Machine Learning Engineer,Machine Learning and AI,59888,Netherlands,Senior,Full-time,Remote,Netherlands,L
+2020,Data Engineer,Data Engineering,54742,Pakistan,Entry-level,Full-time,Remote,Germany,L
+2022,Machine Learning Developer,Machine Learning and AI,76814,Canada,Senior,Full-time,Remote,Canada,M
+2022,Data Scientist,Data Science and Research,33609,Poland,Mid-level,Full-time,Remote,Poland,L
+2022,Principal Data Analyst,Data Analysis,75000,Canada,Mid-level,Full-time,Remote,Canada,S
+2022,Applied Machine Learning Scientist,Machine Learning and AI,30469,Tunisia,Entry-level,Contract,Remote,Czech Republic,M
+2022,Data Engineer,Data Engineering,55475,Pakistan,Entry-level,Full-time,Remote,Germany,M
+2021,Data Scientist,Data Science and Research,80000,United States,Entry-level,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,65141,France,Mid-level,Full-time,Remote,France,M
+2022,Data Scientist,Data Science and Research,48000,Russia,Mid-level,Full-time,Remote,United States,S
+2021,Data Analyst,Data Analysis,90000,United States,Mid-level,Full-time,Remote,United States,M
+2021,Computer Vision Engineer,Machine Learning and AI,24000,Brazil,Senior,Full-time,Remote,Brazil,M
+2021,Applied Machine Learning Scientist,Machine Learning and AI,38400,Vietnam,Mid-level,Full-time,Remote,United States,M
+2021,Data Scientist,Data Science and Research,82500,United States,Mid-level,Full-time,Remote,United States,S
+2021,Machine Learning Engineer,Machine Learning and AI,20000,India,Entry-level,Full-time,Remote,India,S
+2022,ML Engineer,Machine Learning and AI,21013,Portugal,Entry-level,Full-time,Remote,Portugal,L
+2021,Data Analyst,Data Analysis,50000,United States,Entry-level,Full-time,Remote,United States,M
+2020,Data Engineer,Data Engineering,59303,Germany,Mid-level,Full-time,Remote,Germany,S
+2021,Data Engineer,Data Engineering,82528,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,L
+2021,Data Engineer,Data Engineering,80000,United States,Entry-level,Full-time,Remote,United States,L
+2020,Big Data Engineer,Data Engineering,70000,United States,Entry-level,Full-time,Remote,United States,L
+2020,Data Scientist,Data Science and Research,68428,Greece,Senior,Full-time,Remote,United States,L
+2021,Data Scientist,Data Science and Research,75774,Canada,Mid-level,Full-time,Remote,Canada,L
+2021,Data Engineer,Data Engineering,90000,United States,Mid-level,Full-time,Remote,United States,L
+2021,Data Analyst,Data Analysis,90000,United States,Entry-level,Full-time,Remote,United States,S
+2021,Data Analyst,Data Analysis,60000,United States,Entry-level,Full-time,Remote,United States,S
+2021,Data Scientist,Data Science and Research,50000,Nigeria,Mid-level,Full-time,Remote,Nigeria,L
+2021,Machine Learning Engineer,Machine Learning and AI,47282,Spain,Mid-level,Full-time,Remote,Spain,S
+2021,Data Engineer,Data Engineering,28476,Poland,Mid-level,Full-time,Remote,Poland,L
+2021,Data Analyst,Data Analysis,80000,Bulgaria,Senior,Full-time,Remote,United States,S
+2021,Data Analytics Engineer,Leadership and Management,79197,Germany,Senior,Full-time,Remote,Germany,L
+2021,Data Analyst,Data Analysis,80000,United States,Entry-level,Full-time,Remote,United States,M
+2020,Data Scientist,Data Science and Research,45760,Philippines,Mid-level,Full-time,Remote,United States,S
+2021,Data Science Consultant,Data Science and Research,76833,Germany,Entry-level,Full-time,Remote,Germany,S
+2021,Marketing Data Analyst,Data Analysis,88654,Greece,Senior,Full-time,Remote,Denmark,L
+2020,ML Engineer,Machine Learning and AI,15966,Germany,Entry-level,Part-time,Remote,Germany,S
+2021,Computer Vision Software Engineer,Machine Learning and AI,95746,Germany,Mid-level,Full-time,Remote,United States,S
+2021,Computer Vision Software Engineer,Machine Learning and AI,70000,United States,Entry-level,Full-time,Remote,United States,M
+2020,Data Scientist,Data Science and Research,76958,United Kingdom,Mid-level,Full-time,Remote,United Kingdom,S
+2021,Data Analyst,Data Analysis,93000,United States,Mid-level,Full-time,Remote,United States,L
+2021,Data Scientist,Data Science and Research,90000,United States,Entry-level,Full-time,Remote,United States,S
+2020,Data Analyst,Data Analysis,91000,United States,Entry-level,Full-time,Remote,United States,L
+2021,Data Analyst,Data Analysis,80000,United States,Mid-level,Full-time,Remote,United States,L
+2021,Research Scientist,Data Science and Research,63810,Canada,Mid-level,Full-time,Remote,Canada,M
+2021,Data Engineer,Data Engineering,72500,United States,Entry-level,Full-time,Remote,United States,L
+2021,Data Engineer,Data Engineering,69741,Netherlands,Mid-level,Part-time,Remote,Netherlands,L
+2021,AI Scientist,Machine Learning and AI,55000,Spain,Senior,Full-time,Remote,Spain,L
+2021,Machine Learning Engineer,Machine Learning and AI,85000,Netherlands,Entry-level,Full-time,Remote,Germany,S
+2020,Data Analyst,Data Analysis,72000,United States,Entry-level,Full-time,Remote,United States,L
+2021,Data Engineer,Data Engineering,28016,Turkey,Mid-level,Full-time,Remote,Turkey,M
+2021,Data Scientist,Data Science and Research,25532,Serbia,Mid-level,Full-time,Remote,Germany,S
+2021,Data Analyst,Data Analysis,71786,Canada,Senior,Full-time,Remote,Canada,M
+2021,Data Science Consultant,Data Science and Research,69741,France,Executive,Full-time,Remote,Spain,S
+2021,Data Analytics Engineer,Leadership and Management,50000,Vietnam,Senior,Full-time,Remote,United Kingdom,M
+2020,Lead Data Analyst,Data Analysis,87000,United States,Mid-level,Full-time,Remote,United States,L
+2021,Data Science Consultant,Data Science and Research,90000,United States,Entry-level,Full-time,Remote,United States,S
+2021,Data Scientist,Data Science and Research,37825,Spain,Mid-level,Full-time,Remote,Spain,L
+2020,Data Analyst,Data Analysis,85000,United States,Mid-level,Full-time,Remote,United States,L
+2021,Machine Learning Engineer,Machine Learning and AI,46597,Poland,Mid-level,Full-time,Remote,Poland,L
+2021,Machine Learning Engineer,Machine Learning and AI,88654,Belgium,Mid-level,Full-time,Remote,Belgium,M
+2020,Lead Data Engineer,Data Engineering,56000,Portugal,Mid-level,Full-time,Remote,United States,M
+2021,Research Scientist,Data Science and Research,50000,France,Senior,Full-time,Remote,United States,S
+2021,Data Science Engineer,Data Science and Research,40189,Greece,Mid-level,Full-time,Remote,Greece,M
+2021,Data Scientist,Data Science and Research,87738,Canada,Senior,Full-time,Remote,Canada,S
+2020,Computer Vision Engineer,Machine Learning and AI,60000,Russia,Senior,Freelance,Remote,United States,S
+2021,Business Data Analyst,Data Analysis,59102,Luxembourg,Entry-level,Full-time,Remote,Luxembourg,L
+2020,Data Scientist,Data Science and Research,38776,Spain,Mid-level,Full-time,Remote,Spain,M
+2021,Data Scientist,Data Science and Research,46809,Spain,Mid-level,Full-time,Remote,Spain,M
+2021,Data Engineer,Data Engineering,45391,Netherlands,Mid-level,Full-time,Remote,Netherlands,L
+2020,Machine Learning Engineer,Machine Learning and AI,45618,Croatia,Senior,Full-time,Remote,Croatia,S
+2025,Programador,Programador,3,España,Junior,Contract,Remote,Madrid,S
+2025,Programador,Programador,1,España,Junior,Contract,Remote,Madrid,S

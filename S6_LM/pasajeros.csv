@@ -1,0 +1,9 @@
+avion_id,modelo,nombre_pasajero,nacionalidad,color_maleta,peso_maleta
+A320,Airbus A320,Juan Pérez,Española,Roja,12.5
+A320,Airbus A320,Juan Pérez,Española,Negra,8.0
+A320,Airbus A320,Laura Gómez,Mexicana,Azul,15.0
+B737,Boeing 737,Emily Johnson,Estadounidense,Negra,10.0
+B737,Boeing 737,Emily Johnson,Estadounidense,Verde,5.0
+B737,Boeing 737,Michael Brown,Canadiense,Gris,20.0
+B737,Boeing 737,Ana Martínez,Española,Rosa,7.0
+B737,Boeing 737,Ana Martínez,Española,Negra,12.0
